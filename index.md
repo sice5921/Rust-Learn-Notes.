@@ -1,10 +1,16 @@
-## Welcome to GitHub Pages
+## Rust 基础学习笔记
 
-You can use the [editor on GitHub](https://github.com/sice5921/Rust-Learn-Notes./edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### 安装配置
+#### VSCode配置rust支持
+插件列表
+1. **rust**    _rust语言支持_
+2. **crates**   _查看包的最新版本_
+3. **TOML Language Support**   _*.toml 文件支持_
+4. **CodeLLDB**    _调试工具_
+#### crates.io 国内镜像
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
